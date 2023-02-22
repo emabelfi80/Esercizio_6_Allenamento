@@ -2,6 +2,7 @@
  * Scrivere un programma che, dato un certo tempo in giorni, ore, minuti e secondi restituisca
  * il numero totale di secondi.
  * Sappiamo che un giorno ha 86400 secondi, un’ora ha 3600 secondi e un minuto 60 secondi.
+ * Implementiamo 4 metodi separati per ottenere il numero di giorni ore e secondi.
  */
         public class Main {
             public static void main(String[] args) {
